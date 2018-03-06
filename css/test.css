@@ -1,0 +1,58 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #34623F;
+    font-family:times;
+    font-size: 19px
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111111;
+    }
+body{
+      background: url(images/bg.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+h1{
+    text-align: center;
+    font-family:"Palatino Linotype"
+    }
+#h01{
+      color: #34623F
+    }
+th,td{
+      padding:40px;
+      text-align: center;
+      font-size: 19px
+    }
+ table{
+    background-color: #F3E37C;
+    background-size: contain;
+    }
+dt,dd{
+  text-align: center;
+}
+.img01{
+  width: 350px;
+  height:400px;
+}
+#h02{
+  text-align: center;
+}
