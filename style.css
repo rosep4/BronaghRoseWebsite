@@ -6,7 +6,7 @@ body{
   font-weight: 300;
 }
 .jumbotron{
-  background-image: url("/Users/BronaghMurphy/Documents/GitHub/BronaghRoseWebsite/IMG_2135.jpg")
+  background-image: url("./IMG_2135.jpg")
 }
 .navbar-default{
   font-size: 12px;
