@@ -1,5 +1,5 @@
 body{
-  font-family: Verdana, Geneva, sans-serif;
+  font-family:Verdana ,Geneva, sans-serif;
   font-size: 1.2em;
 
   color: #black;
@@ -45,3 +45,5 @@ h1 {
     border-radius: 6px;
     font-weight: bold;
 }
+p{text-align: center;
+color: mediumgrey;}

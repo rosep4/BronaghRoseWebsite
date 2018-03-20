@@ -4,7 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #34623F;
-    font-family:times;
+    font-family:Verdana;
     font-size: 19px
 }
 
@@ -21,7 +21,7 @@ li a {
 }
 
 li a:hover {
-    background-color: #111111;
+    background-color: lightgrey;
     }
 body{
       background: url(images/bg.jpg) no-repeat center center fixed;
@@ -29,13 +29,14 @@ body{
       -moz-background-size: cover;
       -o-background-size: cover;
       background-size: cover;
+      font-family: verdana, geneva, sans-serif;
     }
 h1{
     text-align: center;
-    font-family:"Palatino Linotype"
+    font-family:Verdana,Geneva, sans-serif;
     }
 #h01{
-      color: #34623F
+      color:lightgrey  #34623F
     }
 th,td{
       padding:40px;
@@ -43,7 +44,7 @@ th,td{
       font-size: 19px
     }
  table{
-    background-color: #F3E37C;
+    background-color: #6d7275;
     background-size: contain;
     }
 dt,dd{
