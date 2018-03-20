@@ -4,8 +4,14 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #34623F;
-    font-family:Verdana;
-    font-size: 19px
+    font-family:Verdana ,Geneva, sans-serif;
+    font-size: 1.2em;
+
+    color: #black;
+    font-weight: 300;
+}
+.jumbotron{
+   background-image: url("./IMG_2135.jpg")
 }
 
 li {
@@ -30,10 +36,16 @@ body{
       -o-background-size: cover;
       background-size: cover;
       font-family: verdana, geneva, sans-serif;
+
     }
 h1{
     text-align: center;
-    font-family:Verdana,Geneva, sans-serif;
+
+    font-family:Verdana ,Geneva, sans-serif;
+    font-size: 2.2em;
+
+    color: #303030;
+    font-weight: 300;
     }
 #h01{
       color:lightgrey  #34623F
@@ -51,7 +63,7 @@ dt,dd{
   text-align: center;
 }
 .img01{
-  width: 350px;
+  width: 400px;
   height:400px;
 }
 #h02{
